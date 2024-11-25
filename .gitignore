@@ -1,0 +1,11 @@
+# ignora todos los archivos con extension .txt
+
+*.txt
+
+# ignore el archivo de preguntas.html
+
+.preguntas.html
+
+# ignora la carpeta capturas_de_pantallas
+capturas_de_pantallas
+.emv
